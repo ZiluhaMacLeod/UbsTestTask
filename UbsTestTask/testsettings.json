@@ -1,0 +1,11 @@
+{
+  "Settings": {
+    "Common": {
+      "Browser": "FireFox", // Chrome/FireFox
+      "UbsGlobalBaseUrl": "https://www.ubs.com/global/{0}.html",
+      "UbsGlobalLanguage": "en", // en/de
+      "TimeoutSeconds": 60,
+      "PollingIntervalMilliseconds": 500
+    }
+  }
+}
